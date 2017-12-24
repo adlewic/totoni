@@ -1,13 +1,20 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300');
 
-body {
-	font-family: 'Roboto', sans-serif;
+body {font-family: 'Roboto', sans-serif;}
+
+
+main{
+	border: 1px solid #ccc;
+	width: 80%;
+	margin: auto;
+	height: 150px;
+	margin-top: 200px;
+	text-align: center;
+	border-style: dotted;
+	padding: 20px;
 }
 
-
+span{font-size: 10px;}
 h3{color: #292424}
-
-h4{color: #a5a3a3;
-}
-
+h4{color: #a5a3a3;}
 h5{color:	#0262c9;}
