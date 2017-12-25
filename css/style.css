@@ -7,7 +7,7 @@ main{
 	width: 80%;
 	margin: auto;
 	height: 150px;
-	margin-top: 200px;
+	margin-top: 150px;
 	text-align: center;
 	padding: 20px;
 }
@@ -16,3 +16,9 @@ span{font-size: 10px;}
 h3{color: #292424}
 h4{color: #a5a3a3;}
 h5{color:	#0262c9;}
+
+
+svg{
+	padding-bottom: 10px;
+	width: 80px;
+}
