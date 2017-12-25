@@ -12,9 +12,13 @@ main{
 	padding: 20px;
 }
 
-span{font-size: 10px;}
+span{;
+opacity: 0.5;
+
+}
 h3{color: #292424}
-h4{color: #a5a3a3;}
+h4{color: #a5a3a3;
+font-size: 13px;}
 h5{color:	#0262c9;}
 
 
